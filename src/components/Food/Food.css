@@ -1,0 +1,8 @@
+.imgCol{
+    display: inline-flex;
+    margin: 15px;
+    /* grid-template-columns:200px 200px 200px; */
+}
+.head{
+    text-align: center;
+}
